@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a defensive specialist and security researcher at FalconForce and specialize in understanding the attacker tradecraft and thereby improving detection.
+I'm a defensive specialist and security researcher at [FalconForce](https://www.falconforce.nl) and specialize in understanding the attacker tradecraft and thereby improving detection.
 
 I'm a Microsoft MVP and have presented at many industry conferences including Black Hat, DEF CON, DerbyCon, Splunk .conf, FIRST, MITRE ATT&CKcon, and various other conferences.
 
