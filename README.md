@@ -20,7 +20,4 @@ You can also find me on [Twitter](https://twitter.com/olafhartong) and [LinkedIn
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olafhartong&include_all_commits=true&custom_title=olafhartong's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=53B1A8&bg_color=1a1a1a"/>
 </a>
 
-<a href="https://github.com/olafhartong/olafhartong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olafhartong&hide_title=false&exclude_repo=olafhartong.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff"/>
-</a>
 </p>
